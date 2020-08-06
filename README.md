@@ -12,4 +12,10 @@ NOTE: This is PHP website make sure you create DATABASE before performing these 
 
 I am attaching some images in which you will find structure of tables in which all data are stored.
 1. First, create database of name 'ichat'.
-2. then create these table, you will find in structure folder
+2. then create these table, you will find in "table_structure" folder
+3. all mentioned function above are performed only using these 3 tables.
+HAVE A NICE DAY
+
+Regards
+Shivam Dharmasya
+
