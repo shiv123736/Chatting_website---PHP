@@ -162,30 +162,6 @@ if(isset($_GET['name'])) {
         integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous">
     </script>
     <script>
-    // $(document).ready(function() {
-    //     $("button").click(function() {
-    //         $('#maaf').scrollTop($(document).height());
-    //     });
-    // });
-    // window.onload = function() {
-    //     var ele = document.getElementById('auto_click').click();
-    //     console.log('working');
-    //     $(document).ready(function() {
-    //         $(document).scrollTop($(document).height());
-    //     });
-    // }
-    // window.onload = function() {
-    //     var button = document.getElementById('auto_click');
-    //         button.click(); // this will make it click again every 1000 miliseconds
-    // };
-
-    // $(document).ready(function() {
-    //     $("button").click(function() {
-    //         $(document).scrollTop($(document).height());
-    //     });
-    // });
-    
-
     function loadDoc() {
         setInterval(() => {
             var xhttp = new XMLHttpRequest();
